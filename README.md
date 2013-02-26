@@ -1,0 +1,1 @@
+<p><a href="https://github.com/danawoodman/Google-Sketchup-Cutlister-Plugin" title="Visit the Cutlister GitHub page">Cutlister</a> is a Google SketchUp Plugin that automates the creating of cut lists for your woodworking project. A cut list is a table of parts used to make up a piece of cabinetry or furniture (such as a door, wall end, back or finished end).</p>
